@@ -1,0 +1,3 @@
+[submodule "yagpdb"]
+	path = yagpdb
+	url = https://github.com/botlabs-gg/yagpdb
